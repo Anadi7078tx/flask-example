@@ -5,4 +5,4 @@ app = application
 
 @application.route('/')
 def hello_world():
-    return 'Hello WORLD.'
+    return 'Hello Kalash.'
